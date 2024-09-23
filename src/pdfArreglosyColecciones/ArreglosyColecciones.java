@@ -1,6 +1,8 @@
 
 package pdfArreglosyColecciones;
 
+import java.util.ArrayList;
+
 public class ArreglosyColecciones {
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
