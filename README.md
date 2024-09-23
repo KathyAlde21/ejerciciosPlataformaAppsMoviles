@@ -1,9 +1,9 @@
 **_<h1 align="center">:vulcan_salute: Ejercicios Videos y PDF Plataforma :computer:</h1>_**
 **_<h2 align="center">Módulo 2 - Fundamentos de Programación en Java</h2>_**
 
-- []()
-- []()
-- []()
+- [PDF Arreglos y Colecciones](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/pdfArreglosyColecciones)
+- [PDF Ciclos en Java](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/pdfCiclosEnJava)
+- [PDF Entorno Java y Math](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/pdfEntornoJava)
 - []()
 - [Video Arraylist](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/videoArrayList)
 - [Video Arreglos](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/videoArreglos)
