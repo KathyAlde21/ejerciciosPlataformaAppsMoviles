@@ -24,7 +24,6 @@
 - [PDF Arreglos y Colecciones](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_2/pdfArreglosyColecciones)
 - [PDF Ciclos en Java](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_2/pdfCiclosEnJava)
 - [PDF Entorno Java y Math](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_2/pdfEntornoJava)
-- []()
 - [Video Arraylist](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_2/videoArrayList)
 - [Video Arreglos](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_2/videoArreglos)
 - [Video Buenas Prácticas](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_2/videoBuenasPracticas)
