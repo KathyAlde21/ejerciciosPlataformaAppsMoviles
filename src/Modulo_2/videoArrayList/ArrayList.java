@@ -1,10 +1,12 @@
 package Modulo_2.videoArrayList;
 
-import java.util.ArrayList;
+//import java.util.ArrayList;
 
 public class ArrayList {
+    /*
     public static void main(String[] args) {
         //ARREGLOS DINAMICOS
+        
         ArrayList<Integer> lista = new ArrayList<Integer>();
         lista.add(1);
         lista.add (3);
@@ -18,4 +20,5 @@ public class ArrayList {
         System.out.println(lista.get(1));
         System.out.println(lista); //para ver con remove
     }
+    */
 }

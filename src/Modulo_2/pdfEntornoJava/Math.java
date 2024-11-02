@@ -40,11 +40,11 @@ public class Math {
         //raíz cuadrada de un número con sqrt
     //    System.out.println("La raíz cuadrada de " + x + " es " + Math.sqrt(x));
     
-        /* 
+    /* 
         para expresar un número real limitando los decimale se emplea la
         función round, ej:
-        */
-        /*  
+    */
+    /*  
         double x = 72.3543;
         double y = 0.3498;
         System.out.println(x + " es aprox. " + (double)Math.round(x*100)/100); //72.35
@@ -52,14 +52,15 @@ public class Math {
         
         System.out.println(x + " es aprox. " + Math.floor(x*100)/100); //72.35
         System.out.println(y + " es aprox. " + Math.floor(y*100)/100); //0.34 
-       */
-    
+    */
+    /*
         //mayor y menor entre dos números
         int i = 7;
         int j = -9;
         double x = 72.3543;
         double y = 0.3498;
-        
+    */
+    /*    
         // para hallar el menor de dos números
         System.out.println("min(" + i + "," + j + ") es " + Math.min(i,j));
         System.out.println("min(" + x + "," + y + ") es " + Math.min(x,y));
@@ -70,11 +71,11 @@ public class Math {
         
         System.out.println("Número aleatorio: " + Math.random());
         System.out.println("Otro número aleatorio: " + Math.random());
-        
+    */   
     }
-
+    /*
     private static String random() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
-    
+    */
 }
