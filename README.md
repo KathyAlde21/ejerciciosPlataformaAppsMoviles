@@ -1,19 +1,4 @@
 **_<h1 align="center">:vulcan_salute: Ejercicios Videos y PDF Plataforma :computer:</h1>_**
-**_<h2 align="center">Módulo 6 - Fundamentos de Programación en Java</h2>_**
-
-- []()
-- []()
-
-**_<h2 align="center">Módulo 5 - Fundamentos de Programación en Java</h2>_**
-
-- []()
-- []()
-
-**_<h2 align="center">Módulo 4 - Fundamentos de Programación en Java</h2>_**
-
-- []()
-- []()
-
 **_<h2 align="center">Módulo 3 - Fundamentos de Programación en Java</h2>_**
 
 - [PDF El Lenguaje Estructurado de Consultas SQL - Tablas relacionadas, Operadores, Funciones de cadena, Funciones de agrupacion](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_3/aprendizaje-esperado-2)
