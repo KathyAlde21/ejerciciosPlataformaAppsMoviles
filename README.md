@@ -2,9 +2,6 @@
 **_<h2 align="center">Módulo 3 - Fundamentos de Programación en Java</h2>_**
 
 - [PDF El Lenguaje Estructurado de Consultas SQL - Tablas relacionadas, Operadores, Funciones de cadena, Funciones de agrupacion](https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_3/aprendizaje-esperado-2)
-- []-(https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_3/aprendizaje-esperado-3)
-- []-(https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_3/aprendizaje-esperado-4)
-- []-(https://github.com/KathyAlde21/ejerciciosPlataformaAppsMoviles/tree/master/src/Modulo_3/aprendizaje-esperado-5)
 
 
 **_<h2 align="center">Módulo 2 - Fundamentos de Programación en Java</h2>_**
